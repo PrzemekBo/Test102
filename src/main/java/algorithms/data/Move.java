@@ -19,6 +19,9 @@ public class Move {
 	public Coordinate getFrom() {
 		return from;
 	}
+	private void print() {
+		System.out.println("JEJ!!!!");
+	}
 
 	public void setFrom(Coordinate from) {
 		this.from = from;
